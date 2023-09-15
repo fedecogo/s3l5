@@ -487,6 +487,14 @@ console.log('I film che contengono "' + searchTerm + '" nel titolo:', moviesWith
 /* ESERCIZIO 24
   Scrivi una funzione per aggiungere un nuovo elemento alla lista non ordinata con id "myList".
 */
+// function aggiungiElemento() {
+//   const nuovoElemento = document.createElement('li');
+//   const testoElemento = document.createTextNode('Nuovo elemento');
+//   nuovoElemento.appendChild(testoElemento);
+//   const lista = document.getElementById('myList');
+//   lista.appendChild(nuovoElemento);
+// }
+// aggiungiElemento();
 
 /* ESERCIZIO 25
   Scrivi una funzione per svuotare la lista non ordinata con id "myList".
@@ -495,7 +503,6 @@ console.log('I film che contengono "' + searchTerm + '" nel titolo:', moviesWith
 /* ESERCIZIO 26
   Scrivi una funzione per aggiungere ad ogni tag <tr> la classe CSS "test"
 */
-
 // [EXTRA] JS Avanzato
 
 /* ESERCIZIO 27
